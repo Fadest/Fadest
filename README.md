@@ -13,7 +13,7 @@ building cool stuff. Recently, I've been building some interesting projects, che
 - **🖥️ Platforms**: Backend, Minecraft: Java/Bedrock Edition
 - **🌐 Languages**:️ Java, Kotlin, Rust, C++, Go
 - **📈 Databases**: PostgreSQL, MongoDB, Redis
-- **📔 Libraries**: Paper, Minestom, Sponge, Fabric
+- **📔 Frameworks**: Paper, Minestom, Sponge, Fabric
 - **🔧 Tools**: Docker, Kubernetes, TeamCity, Sentry
 
 
