@@ -10,9 +10,10 @@ building cool stuff. Recently, I've been building some interesting projects, che
 
 #### 💻 Technology stack
 
-- **🖥️ Platforms**: Desktop, Backend, Minecraft: Java Edition
+- **🖥️ Platforms**: Backend, Minecraft: Java/Bedrock Edition
 - **🌐 Languages**:️ Java, Kotlin, Rust, C++, Go
 - **📈 Databases**: PostgreSQL, MongoDB, Redis
+- **📔 Libraries**: Paper, Minestom, Sponge, Fabric
 - **🔧 Tools**: Docker, Kubernetes, TeamCity, Sentry
 
 
