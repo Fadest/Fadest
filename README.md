@@ -19,4 +19,4 @@ building cool stuff. Recently, I've been building some interesting projects, che
 
 ## 📈 Stats
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fadest&theme=dark&background=000000)
+![GitHub Streak](https://streak-stats.demolab.com?user=Fadest&theme=github-dark-dimmed&exclude_days=Sun)
