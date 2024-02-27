@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Fadest](https://github.com/Fadest)
 
-I'm an experienced **Backend Developer** with over 9 years of experience. I'm currently working
+I'm an experienced **Backend Developer** with over 10 years of experience. I'm currently working
 at [Hypixel](https://hypixel.net)
 building cool stuff. Recently, I've been building some interesting projects, check them out:
 
