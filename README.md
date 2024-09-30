@@ -8,7 +8,7 @@ building cool stuff. Recently, I've been building some interesting projects, che
 
 - [Twitch Rivals: Craftmaster LIVE! ft. TubNet](https://www.nonameideas.com/portfolio/craftmaster) - Development and QA
 - [Andalusian Crush Quest](https://www.elpespunte.es/andalusian-crush-quest-la-campana-con-streamers-de-la-junta-y-amazon-ads-que-ya-atrae-a-mas-de-600-000-jovenes/) - Development and QA
-- [Tubbo: Mileathon](https://www.youtube.com/watch?v=1grIETDGkf0) - Development
+- [Tubbo: Mileathon](https://www.youtube.com/watch?v=1grIETDGkf0) - Development (Mileage Software & Panel)
   
 #### 💻 Technology stack
 
