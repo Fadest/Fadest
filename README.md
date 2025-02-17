@@ -17,8 +17,3 @@ building cool stuff. Recently, I've been building some interesting projects, che
 - **📈 Databases**: PostgreSQL, MongoDB, Redis
 - **📔 Frameworks**: Paper, Fabric, Sponge
 - **🔧 Tools**: Docker, Kubernetes, TeamCity, Sentry
-
-
-## 📈 Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Fadest&theme=github-dark-dimmed)
