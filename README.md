@@ -13,7 +13,7 @@ building cool stuff. Recently, I've been building some interesting projects, che
 #### 💻 Technology stack
 
 - **🖥️ Platforms**: Backend, Minecraft: Java/Bedrock Edition
-- **🌐 Languages**:️ Java, Kotlin, Rust, C++
+- **🌐 Languages**:️ Java, Kotlin, JavaScript/TypeScript
 - **📈 Databases**: PostgreSQL, MongoDB, Redis
 - **📔 Frameworks**: Paper, Fabric, Sponge
 - **🔧 Tools**: Docker, Kubernetes, TeamCity, Sentry
